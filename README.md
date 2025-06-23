@@ -6,6 +6,8 @@ conversão de moedas. A taxa de conversão não é estática, sendo obtida por m
 presente no projeto.
     
 ## Funcionalidades
-- Conversão de moedas - Listagem do histórico de conversões - Salvar histórico de conversões para um arquivo json (conversoes.json)
+- Conversão de moedas 
+- Listagem do histórico de conversões 
+- Salvar histórico de conversões para um arquivo json (conversoes.json)
 ## Autores
 - [Yuri Cesar](https://www.github.com/YuriCesar73)
