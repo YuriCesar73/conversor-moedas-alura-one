@@ -1,4 +1,4 @@
-# conversor-moedas-alura-one Conversor de moedaConversor de moedas - desafio para o bootcamp da Alura One
+# Conversor de moeda
 Solução do desafio do bootcampo Alura ONE. Aplicação que oferece interação textual (via console) com o usuário, proporcionando opções para realizar a 
 conversão de moedas. A taxa de conversão não é estática, sendo obtida por meio de uma API.
 ## Dependências
